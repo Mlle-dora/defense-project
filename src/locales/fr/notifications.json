@@ -1,0 +1,26 @@
+{
+  "title": "Notifications",
+  "history": "Historique des notifications",
+  "eventType": "Type d'événement",
+  "channel": "Canal",
+  "recipient": "Destinataire",
+  "sentAt": "Envoyé le",
+  "attempts": "Tentatives",
+  "events": {
+    "declaration_submitted": "Déclaration soumise",
+    "declaration_received": "Déclaration reçue",
+    "reminder": "Rappel",
+    "registration_completed": "Enregistrement terminé",
+    "certificate_ready": "Certificat prêt",
+    "documents_requested": "Documents demandés"
+  },
+  "channels": {
+    "email": "E-mail",
+    "sms": "SMS"
+  },
+  "statuses": {
+    "pending": "En attente",
+    "sent": "Envoyé",
+    "failed": "Échoué"
+  }
+}

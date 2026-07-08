@@ -1,0 +1,26 @@
+{
+  "title": "Notifications",
+  "history": "Notification History",
+  "eventType": "Event Type",
+  "channel": "Channel",
+  "recipient": "Recipient",
+  "sentAt": "Sent At",
+  "attempts": "Attempts",
+  "events": {
+    "declaration_submitted": "Declaration Submitted",
+    "declaration_received": "Declaration Received",
+    "reminder": "Reminder",
+    "registration_completed": "Registration Completed",
+    "certificate_ready": "Certificate Ready",
+    "documents_requested": "Documents Requested"
+  },
+  "channels": {
+    "email": "Email",
+    "sms": "SMS"
+  },
+  "statuses": {
+    "pending": "Pending",
+    "sent": "Sent",
+    "failed": "Failed"
+  }
+}
